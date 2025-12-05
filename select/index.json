@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "パーフェクト生命",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2025-12-05T14:43:04.535419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パーフェクト生命",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_パーフェクト生命_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パーフェクト生命",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/02_パーフェクト生命_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パーフェクト生命",
+      "artist": "Nayutalien",
+      "has_synced": true,
+      "path": "select/03_パーフェクト生命_Nayutalien.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パーフェクト生命",
+      "artist": "ナユタン星人",
+      "has_synced": true,
+      "path": "select/04_パーフェクト生命_ナユタン星人.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パーフェクト生命",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_パーフェクト生命_ナユタン星人.txt"
+    }
+  ]
+}
